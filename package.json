@@ -1,0 +1,24 @@
+{
+  "name": "test-repo",
+  "version": "1.0.0",
+  "description": "This repository is used for testing purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aidawid/test-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aidawid/test-repo/issues"
+  },
+  "homepage": "https://github.com/aidawid/test-repo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^26.1.0"
+  }
+}

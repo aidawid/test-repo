@@ -1,3 +1,5 @@
 # test-repo
 
-This repository is used for testing purposes.
+await daje nam kolejne wykonywanie sie polecen
+page obiekt zdefiniowany przez playwright
+web first assertion - await 
